@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemaLab6Ex1", "TemaLab6Ex\TemaLab6Ex1.csproj", "{F743519A-F31A-421B-B3CE-0D736DDCE0FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemaLab6Ex2", "TemaLab6Ex2\TemaLab6Ex2.csproj", "{857CCFEC-5A5F-416C-BB3C-EC75D4F84508}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F743519A-F31A-421B-B3CE-0D736DDCE0FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F743519A-F31A-421B-B3CE-0D736DDCE0FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F743519A-F31A-421B-B3CE-0D736DDCE0FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F743519A-F31A-421B-B3CE-0D736DDCE0FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{857CCFEC-5A5F-416C-BB3C-EC75D4F84508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{857CCFEC-5A5F-416C-BB3C-EC75D4F84508}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{857CCFEC-5A5F-416C-BB3C-EC75D4F84508}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{857CCFEC-5A5F-416C-BB3C-EC75D4F84508}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABC97034-A76C-4F06-90B5-0E678F821349}
+	EndGlobalSection
+EndGlobal
